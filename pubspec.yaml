@@ -1,0 +1,82 @@
+name: digi_task
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.19.0
+  cupertino_icons: ^1.0.6
+  flutter_svg: ^2.0.10+1
+  go_router: ^14.1.0
+  flutter_secure_storage: ^9.2.1
+  json_serializable: ^6.8.0
+  json_annotation: ^4.9.0
+  provider: ^6.1.2
+  shared_preferences: ^2.2.3
+  equatable: ^2.0.5
+  dio: ^5.4.3+1
+  get_it: ^7.7.0
+  multiple_result: ^5.1.0
+  another_flushbar: ^1.12.30
+  pinput: ^4.0.0
+  multi_dropdown: ^2.1.4
+  google_ml_kit: ^0.18.0
+  image_picker: ^1.1.2
+  flutter_cache_manager: ^3.3.2
+  table_calendar: ^3.1.2
+  jwt_decoder: ^2.0.1
+  geolocator: ^13.0.1
+  geocoding: ^3.0.0
+  web_socket_channel: ^2.1.0
+  multiselect: ^0.1.1
+  flutter_bloc: ^8.1.6
+  bloc: ^8.1.4
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^2.4.10
+
+  flutter_lints: ^3.0.0
+
+flutter:
+  generate: true
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+
+
+  fonts:
+    - family: Montserrat
+      fonts:
+        - asset: assets/fonts/Montserrat-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Montserrat-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Montserrat-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Montserrat-SemiBold.ttf
+          weight: 700
+    - family: NunitoSans
+      fonts:
+        - asset: assets/fonts/NunitoSans_7pt-Light.ttf
+          weight: 300
+        - asset: assets/fonts/NunitoSans_7pt-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/NunitoSans_7pt-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/NunitoSans_7pt-SemiBold.ttf
+          weight: 700
+

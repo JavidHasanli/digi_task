@@ -1,0 +1,21 @@
+{
+    "@@locale": "az",
+    "welcomeStart":"xoş gəlmisiniz",
+    "onboarddingSubtitle":"Tapşırıqlarınızı daha rahat icra edin, performansını qiymətləndirin",
+    "mailAdress":"Mail adresiniz",
+    "password":"Şifrəniz",
+    "login":"Daxil ol",
+    "forgotPassword":"Şifrəni unutmusunuz?",
+    "enterMail":"Mail adresinizi daxil edin.",
+    "resetPassword":"Şifrəni yenilə",
+    "welcomeUser":"Xoş gəlmisən !",
+    "completed":"Tamamlanıb",
+    "connections":"Qoşulmalar",
+    "problems":"Problemlər",
+    "ongoingTask":"Davam edən tasklar",
+    "organizations":"Tədbirlər",
+    "home":"Ana səhifə",
+    "perfrormance":"Performans",
+    "task":"Tapşırıq",
+    "profile":"Profil"
+}

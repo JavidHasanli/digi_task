@@ -1,0 +1,22 @@
+
+{
+    "@@locale": "en",
+    "welcomeStart":"Welcome to",
+    "onboarddingSubtitle":"Perform tasks more easily, evaluate performance",
+    "mailAdress":"Mail adress",
+    "password":"Password",
+    "login":"Login",
+    "forgotPassword":"Forgot your password?",
+    "enterMail":"Enter your email address.",
+    "resetPassword":"Reset password",
+    "welcomeUser":"You are welcome!",
+    "completed":"Completed",
+    "connections":"Connections",
+    "problems":"Problems",
+    "ongoingTask":"Ongoing tasks",
+    "organizations":"Organizations",
+    "home":"Home",
+    "perfrormance":"Performance",
+    "task":"Task",
+    "profile":"Profile"
+}
